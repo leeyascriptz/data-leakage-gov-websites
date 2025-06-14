@@ -24,7 +24,7 @@ This dataset was created as part of research project to identify publicly expose
 5. Categorized findings based on type of exposed information
 
 # result
-Any output obtained from the method can be find through ....
+Any output obtained from the method can be find through https://www.researchgate.net/publication/392694057_Analysis_of_Potential_User_Data_Vulnerabilities_on_Government_Websites_Listed_in_Indonesia_SPBE_Framework
 
 # ethical note
 This project is conducted for academic purposes only. No unauthorized access was performed, and all findings are performed by using publicly available sources.
