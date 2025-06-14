@@ -2,19 +2,19 @@
 Dataset is used for *ANALYSIS OF POTENTIAL USER DATA VULNERABILITIES ON GOVERNMENT WEBSITES LISTED IN INDONESIA SPBE FRAMEWORK*
 
 # file description
-This dataset was created as part of research project to identify publiclyy exposed data and types of exposures.
+This dataset was created as part of research project to identify publicly exposed data and types of exposures.
 
 # purpose of each dataset
-1. dorking_syntax_.xlsx
-2. finance_score_xlsx
-3. governance_score_xlsx
-4. security_score.xlsx
-5. overall_dorking_score.xlsx
+1. dorking_syntax_.xlsx        : Determine which syntax will work to discover any potential data leakage.
+2. finance_score_xlsx          : Assessing total score of each vulnerability type that are found in the _Finance and Development Planning_ category.
+3. governance_score_xlsx       : Assessing total score of each vulnerability type that are found in the _Governance and Public Administration_ category.
+4. security_score.xlsx         : Assessing total score of each vulnerability type that are found in the _Security, Information, and Public Services_ category.
+5. overall_dorking_score.xlsx  : Analyze which website category is the most vulnerable.
 
 # purpose of each data visualization
-1. finance_total_barchart.png
-2. governance_total_barchart.png
-3. security_total_barchart.png
+1. finance_total_barchart.png     : Presenting the distribution and total count of data exposure in financial services.
+2. governance_total_barchart.png  : Presenting the distribution and total count of data exposure in governance services.
+3. security_total_barchart.png    : Presenting the distribution and total count of data exposure in security services.
 
 # methodology
 1. Constructed 10 Google Dorks Syntax that focused on finding potential data leakage in the government website
